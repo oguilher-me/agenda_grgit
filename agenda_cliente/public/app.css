@@ -1,0 +1,11 @@
+@import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
+
+body {
+    padding: 10px 0px 60px;
+}
+
+.action-buttons {
+  margin-top: -17px;
+}
+
+.label,.glyphicon { margin-right:5px; }
